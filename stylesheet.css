@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Roman-Uncial-Modern'; /*a name to be used later*/
+    src: url('RomanUncialModern.ttf'), format('truetype'); /*URL to font*/
+}
+
+.jumbotron h1 {
+    font-style: 'Roman-Uncial-Modern';
+}
+
+p {
+    font-style: 'Roman-Uncial-Modern';
+}
